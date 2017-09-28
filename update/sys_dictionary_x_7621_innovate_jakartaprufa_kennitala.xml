@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-26 14:00:24</sys_created_on>
-        <sys_id>4036e7b34f5103003021a6928110c796</sys_id>
+        <sys_id>783f92244f2103003021a6928110c7e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>kennitala</sys_name>
         <sys_package display_value="Innovate" source="x_7621_innovate">0eb68b734f1103003021a6928110c73f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Innovate">0eb68b734f1103003021a6928110c73f</sys_scope>
         <sys_update_name>sys_dictionary_x_7621_innovate_jakartaprufa_kennitala</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-26 14:00:24</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-09-28 16:40:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

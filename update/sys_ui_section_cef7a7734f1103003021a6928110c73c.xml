@@ -2,86 +2,86 @@
 <record_update>
     <sys_ui_section caption="" section_id="cef7a7734f1103003021a6928110c73c" sys_domain="global" table="x_7621_innovate_jakartaprufa" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>9ef7a7734f1103003021a6928110c73f</sys_id>
+            <sys_created_on>2017-09-28 16:41:44</sys_created_on>
+            <sys_id>167fde244f2103003021a6928110c7ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>d2f767f34f5103003021a6928110c7a0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
+            <sys_updated_on>2017-09-28 16:41:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>56f767f34f5103003021a6928110c7a0</sys_id>
+            <sys_created_on>2017-09-28 16:41:44</sys_created_on>
+            <sys_id>da7fde244f2103003021a6928110c7ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
+            <sys_updated_on>2017-09-28 16:41:44</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>kennitala</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>d6f767f34f5103003021a6928110c7a0</sys_id>
+            <sys_created_on>2017-09-28 16:41:44</sys_created_on>
+            <sys_id>5e7fde244f2103003021a6928110c7ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
+            <sys_updated_on>2017-09-28 16:41:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>5af767f34f5103003021a6928110c7a0</sys_id>
+            <sys_created_on>2017-09-28 16:41:44</sys_created_on>
+            <sys_id>de7fde244f2103003021a6928110c7ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
+            <sys_updated_on>2017-09-28 16:41:44</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>postnumer</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 16:41:44</sys_created_on>
+            <sys_id>527fde244f2103003021a6928110c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 16:41:44</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>heimili</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>daf767f34f5103003021a6928110c7a0</sys_id>
+            <sys_created_on>2017-09-28 16:41:44</sys_created_on>
+            <sys_id>d27fde244f2103003021a6928110c7cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
+            <sys_updated_on>2017-09-28 16:41:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,27 +89,13 @@
             <element>nafn</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>5ef767f34f5103003021a6928110c7a0</sys_id>
+            <sys_created_on>2017-09-28 16:41:44</sys_created_on>
+            <sys_id>567fde244f2103003021a6928110c7cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>postnumer</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-26 14:03:02</sys_created_on>
-            <sys_id>def767f34f5103003021a6928110c7a0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_7621_innovate_jakartaprufa" sys_domain="global" view="Default view">cef7a7734f1103003021a6928110c73c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-26 14:03:02</sys_updated_on>
+            <sys_updated_on>2017-09-28 16:41:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
