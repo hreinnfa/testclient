@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="jakartaPrufa" max_length="40" name="x_7621_innovate_jakartaprufa" type="collection">
+        <element label="Heimili" max_length="100" name="heimili" type="string_full_utf8"/>
+        <element label="kennitala" max_length="10" name="kennitala" type="string"/>
+        <element label="Nafn" max_length="100" name="nafn" type="string_full_utf8"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Postnumer" max_length="3" name="postnumer" type="integer"/>
+    </element>
+</database>

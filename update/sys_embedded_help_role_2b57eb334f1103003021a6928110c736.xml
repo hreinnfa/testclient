@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_7621_innovate.jakartaprufa_user" name="x_7621_innovate.jakartaprufa_user">eb57eb334f1103003021a6928110c734</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-26 14:00:24</sys_created_on>
+        <sys_id>2b57eb334f1103003021a6928110c736</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eb57eb334f1103003021a6928110c734</sys_name>
+        <sys_package display_value="Innovate" source="x_7621_innovate">0eb68b734f1103003021a6928110c73f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">0eb68b734f1103003021a6928110c73f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2b57eb334f1103003021a6928110c736</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-26 14:00:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
